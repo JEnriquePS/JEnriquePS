@@ -9,7 +9,7 @@
 > ```
 > *Beautiful is better than ugly. Simple is better than complex. Now is better than never.*
 
-Building agentic systems and data pipelines from 3,000m above sea level. I lead teams by day, ship tools by night, and run marathons somewhere in between.
+Building agentic systems and data pipelines from Lima. I lead teams by day, ship tools by night, and run marathons somewhere in between.
 
 ---
 
