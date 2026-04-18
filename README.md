@@ -15,9 +15,9 @@ Building agentic systems and data pipelines from Lima. I lead teams by day, ship
 
 ## Current Projects
 
-- 🎙️ **[Transcribro](https://github.com/jenriqueps/transcribro)** – Drop audio in, get text out. AI transcription that respects your workflow.
-- 🦆 **[QuaQua](https://github.com/jenriqueps/quaqua)** – Desktop flashcard app with spaced repetition, interleaving, and the protégé effect. Study smarter, retain longer.
 - 🗳️ **[Perurna](https://github.com/JEnriquePS/perurna)** – Real-time electoral dashboard for Peru's 2026 elections. Live ONPE data, maps, trends, and zero refresh needed.
+- 🦆 **[QuaQua](https://github.com/jenriqueps/quaqua)** – Desktop flashcard app with spaced repetition, interleaving, and the protégé effect. Study smarter, retain longer.
+- 🎙️ **[Transcribro](https://github.com/jenriqueps/transcribro)** – Drop audio in, get text out. AI transcription that respects your workflow.
 
 ---
 
