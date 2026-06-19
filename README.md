@@ -7,7 +7,9 @@
 > ```python
 > >>> import this
 > ```
-> *Beautiful is better than ugly. Simple is better than complex. Now is better than never.*
+> *Beautiful is better than ugly.*
+> *Simple is better than complex.*
+> *Now is better than never.*
 
 Building agentic systems and data pipelines from Lima. I lead teams by day, ship tools by night, and run marathons somewhere in between.
 
